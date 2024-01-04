@@ -4,4 +4,4 @@ ipywidgets
 
 milvus[client]==2.3.2
 
-gradio==4.2.0
+gradio==4.11.0
